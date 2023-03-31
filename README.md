@@ -1,5 +1,5 @@
 # Function
-IG-OSINT is a simple tool used to collect information about another person's Instagram account without requiring a login 
+IG-OSINT is a tool used to get information about Instagram accounts without having to interact with the owner
 # Tested on
 Termux
 # Installation
