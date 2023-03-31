@@ -1,15 +1,49 @@
-# Function
-IG-OSINT is a tool used to get information about Instagram accounts without having to interact with the owner
-# Tested on
+IG-OSINT
+----
+IG-OSINT is a tool used to extract information from other people's/yourself Instagram accounts without logging in/blocking
+
+Results
+----
+* Username
+* ID
+* Full name 
+* Biography 
+* Business category name
+* External URL
+* Followed back
+* Following
+* Follower 
+* Following back
+* Blocked people
+* Never blocked people
+* Has a highlight
+* Have a public story
+* Have asked people
+* Asked people
+* Has a story to watch
+* IGTV
+* Business account 
+* Private account
+* Verified
+* Post
+* Profile photo URL
+
+Tested on
+----
 Termux
-# Installation
-pkg install python git -y
 
-pip install instaloader
+Requirements
+----
+* Python
 
-git clone https://github.com/14sept2002/IG-OSINT.git
+`pip install instaloader`
 
-cd IG-OSINT
+Commands
+----
+`apt install git`
 
-python ig.py
+`git clone https://github.com/14sept2002/IG-OSINT.git`
 
+`cd IG-OSINT`
+
+`python ig.py`
