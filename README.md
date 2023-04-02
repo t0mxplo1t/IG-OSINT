@@ -42,7 +42,7 @@ Commands
 ----
 `apt install git`
 
-`git clone https://github.com/14sept2002/IG-OSINT.git`
+`git clone https://github.com/t0mxplo1t/IG-OSINT.git`
 
 `cd IG-OSINT`
 
